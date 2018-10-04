@@ -1,4 +1,4 @@
-###WAQIP 
+### WAQIP 
 
 The waqip program is to download air quality data in China and save to mysql database from [aqicn.org](http://aqicn.org). 
 
@@ -20,6 +20,7 @@ The bash shell script waqip.sh is used to set crontab task, cities_china_url.csv
 Please put forward issue if you have any questions.
 
 
+### WAQIP (中文)
 
 waqip项目是为了从[aqicn.org](http://aqicn.org)网站下载中国各国控站的空气质量数据以及气象数据，并且存储到数据库。
 
